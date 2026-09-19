@@ -74,7 +74,7 @@ During my internship at **EDU TANTR**, I worked on activities related to:
 
 **Program:** Data Analytics Internship
 
-![EDU TANTR Internship Certificate](./EduTantr.png)
+![EDU TANTR Internship Certificate](/EduTantr.png)
 
 > Successfully completed the Data Analytics internship program at EDU TANTR.
 
@@ -118,8 +118,8 @@ My goal is to build practical analytics projects and develop strong skills in **
 
 ### Connect With Me
 
-- 💼 LinkedIn: [Rakesh Kumar]((https://www.linkedin.com/in/rakeshkumar-dataanalyst/))
-- 🐙 GitHub: [Rakesh Kumar]((https://github.com/Rakesh-Kumar24))
+- 💼 LinkedIn: [Rakesh Kumar](https://www.linkedin.com/in/rakeshkumar-dataanalyst/)
+- 🐙 GitHub: [Rakesh Kumar](https://github.com/Rakesh-Kumar24)
 
 ---
 
